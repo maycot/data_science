@@ -1,0 +1,6 @@
+python==3.6.4
+numpy>=1.14.0
+pandas>=0.22
+tqdm==4.26.0
+PyPDF2
+wand

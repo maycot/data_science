@@ -1,0 +1,79 @@
+2019-03-26 10:21:59,482:INFO: Creating the datasets...
+2019-03-26 10:21:59,647:INFO: Creating the model...
+2019-03-26 10:22:00,665:INFO: Starting training for 20 epoch(s)
+2019-03-26 10:22:01,795:INFO: Epoch 1 / 20
+2019-03-26 10:25:45,693:INFO: - Train metrics: accuracy: 0.614 ; loss: 0.976
+2019-03-26 10:25:51,981:INFO: - Eval metrics: accuracy: 0.572 ; loss: 1.072
+2019-03-26 10:25:52,378:INFO: - Found new best accuracy, saving in experiments2/base_model3/best_weights/after-epoch-1
+2019-03-26 10:25:52,383:INFO: Epoch 2 / 20
+2019-03-26 10:29:10,334:INFO: - Train metrics: accuracy: 0.756 ; loss: 0.665
+2019-03-26 10:29:15,903:INFO: - Eval metrics: accuracy: 0.624 ; loss: 1.019
+2019-03-26 10:29:16,238:INFO: - Found new best accuracy, saving in experiments2/base_model3/best_weights/after-epoch-2
+2019-03-26 10:29:16,243:INFO: Epoch 3 / 20
+2019-03-26 10:32:54,477:INFO: - Train metrics: accuracy: 0.779 ; loss: 0.608
+2019-03-26 10:33:00,090:INFO: - Eval metrics: accuracy: 0.724 ; loss: 0.905
+2019-03-26 10:33:00,527:INFO: - Found new best accuracy, saving in experiments2/base_model3/best_weights/after-epoch-3
+2019-03-26 10:33:00,531:INFO: Epoch 4 / 20
+2019-03-26 10:36:16,955:INFO: - Train metrics: accuracy: 0.787 ; loss: 0.575
+2019-03-26 10:36:22,665:INFO: - Eval metrics: accuracy: 0.636 ; loss: 1.215
+2019-03-26 10:36:22,692:INFO: Epoch 5 / 20
+2019-03-26 10:39:49,026:INFO: - Train metrics: accuracy: 0.822 ; loss: 0.502
+2019-03-26 10:39:54,473:INFO: - Eval metrics: accuracy: 0.696 ; loss: 1.063
+2019-03-26 10:39:54,500:INFO: Epoch 6 / 20
+2019-03-26 10:43:13,475:INFO: - Train metrics: accuracy: 0.834 ; loss: 0.479
+2019-03-26 10:43:19,034:INFO: - Eval metrics: accuracy: 0.704 ; loss: 1.019
+2019-03-26 10:43:19,086:INFO: Epoch 7 / 20
+2019-03-26 10:46:42,264:INFO: - Train metrics: accuracy: 0.839 ; loss: 0.442
+2019-03-26 10:46:48,237:INFO: - Eval metrics: accuracy: 0.632 ; loss: 1.117
+2019-03-26 10:46:48,276:INFO: Epoch 8 / 20
+2019-03-26 10:50:15,180:INFO: - Train metrics: accuracy: 0.854 ; loss: 0.412
+2019-03-26 10:50:20,689:INFO: - Eval metrics: accuracy: 0.752 ; loss: 0.992
+2019-03-26 10:50:21,092:INFO: - Found new best accuracy, saving in experiments2/base_model3/best_weights/after-epoch-8
+2019-03-26 10:50:21,097:INFO: Epoch 9 / 20
+2019-03-26 10:53:46,798:INFO: - Train metrics: accuracy: 0.862 ; loss: 0.408
+2019-03-26 10:53:52,354:INFO: - Eval metrics: accuracy: 0.720 ; loss: 1.107
+2019-03-26 10:53:52,380:INFO: Epoch 10 / 20
+2019-03-26 10:57:17,573:INFO: - Train metrics: accuracy: 0.865 ; loss: 0.392
+2019-03-26 10:57:23,147:INFO: - Eval metrics: accuracy: 0.744 ; loss: 0.999
+2019-03-26 10:57:23,175:INFO: Epoch 11 / 20
+2019-03-26 11:00:50,478:INFO: - Train metrics: accuracy: 0.878 ; loss: 0.367
+2019-03-26 11:00:56,015:INFO: - Eval metrics: accuracy: 0.732 ; loss: 1.048
+2019-03-26 11:00:56,045:INFO: Epoch 12 / 20
+2019-03-26 11:04:19,598:INFO: - Train metrics: accuracy: 0.879 ; loss: 0.367
+2019-03-26 11:04:25,059:INFO: - Eval metrics: accuracy: 0.652 ; loss: 1.105
+2019-03-26 11:04:25,093:INFO: Epoch 13 / 20
+2019-03-26 11:07:46,900:INFO: - Train metrics: accuracy: 0.895 ; loss: 0.328
+2019-03-26 11:07:52,335:INFO: - Eval metrics: accuracy: 0.720 ; loss: 1.002
+2019-03-26 11:07:52,366:INFO: Epoch 14 / 20
+2019-03-26 11:11:41,101:INFO: - Train metrics: accuracy: 0.887 ; loss: 0.334
+2019-03-26 11:11:46,576:INFO: - Eval metrics: accuracy: 0.712 ; loss: 1.017
+2019-03-26 11:11:46,602:INFO: Epoch 15 / 20
+2019-03-26 11:15:01,906:INFO: - Train metrics: accuracy: 0.901 ; loss: 0.310
+2019-03-26 11:15:07,484:INFO: - Eval metrics: accuracy: 0.740 ; loss: 1.096
+2019-03-26 11:15:07,526:INFO: Epoch 16 / 20
+2019-03-26 11:19:08,954:INFO: - Train metrics: accuracy: 0.895 ; loss: 0.289
+2019-03-26 11:19:14,487:INFO: - Eval metrics: accuracy: 0.624 ; loss: 1.199
+2019-03-26 11:19:14,528:INFO: Epoch 17 / 20
+2019-03-26 11:22:40,002:INFO: - Train metrics: accuracy: 0.905 ; loss: 0.261
+2019-03-26 11:22:45,520:INFO: - Eval metrics: accuracy: 0.660 ; loss: 1.206
+2019-03-26 11:22:45,561:INFO: Epoch 18 / 20
+2019-03-26 11:26:26,555:INFO: - Train metrics: accuracy: 0.919 ; loss: 0.255
+2019-03-26 11:26:32,112:INFO: - Eval metrics: accuracy: 0.608 ; loss: 1.280
+2019-03-26 11:26:32,148:INFO: Epoch 19 / 20
+2019-03-26 11:29:58,241:INFO: - Train metrics: accuracy: 0.915 ; loss: 0.259
+2019-03-26 11:30:03,731:INFO: - Eval metrics: accuracy: 0.680 ; loss: 1.338
+2019-03-26 11:30:03,776:INFO: Epoch 20 / 20
+2019-03-26 11:33:21,416:INFO: - Train metrics: accuracy: 0.924 ; loss: 0.242
+2019-03-26 11:33:26,978:INFO: - Eval metrics: accuracy: 0.700 ; loss: 1.249
+2019-03-26 11:34:09,692:INFO: Creating the dataset...
+2019-03-26 11:34:09,764:INFO: Creating the model...
+2019-03-26 11:34:10,133:INFO: Starting evaluation
+2019-03-26 11:34:10,249:INFO: Restoring parameters from experiments2/base_model3/best_weights\after-epoch-8
+2019-03-26 11:34:15,476:INFO: - Eval metrics: accuracy: 0.748 ; loss: 0.963
+2019-03-26 16:05:55,487:INFO: Creating the datasets...
+2019-03-26 16:07:07,051:INFO: Creating the datasets...
+2019-03-26 16:07:07,249:INFO: Creating the model...
+2019-03-26 16:07:08,248:INFO: Starting training for 20 epoch(s)
+2019-03-26 16:07:08,541:INFO: Restoring parameters from experiments/base_model/best_weights
+2019-03-26 16:07:08,551:INFO: Restoring parameters from experiments/base_model/best_weights\after-epoch-8
+2019-03-26 16:07:09,607:INFO: Epoch 9 / 28
