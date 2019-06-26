@@ -8,5 +8,5 @@ Pour lancer l'entrainement d'un nouveau modèle :
 <br/>Lancer l'entrainement : python train.py (les paramètres de l'entrainement sont définis dans le fichier
 params)
 <br/>
-<br/>Une fois l'entrainement terminé, lancer l'évaluation qur le test set : python evaluate.py
+<br/>Une fois l'entrainement terminé, lancer l'évaluation sur le test set : python evaluate.py
 
