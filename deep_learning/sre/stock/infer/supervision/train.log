@@ -1,0 +1,200 @@
+2019-02-28 10:07:26,654:INFO:Done : load data in 1 min.
+2019-02-28 10:09:21,263:INFO:Train set shape : (6796659, 55)
+2019-02-28 10:09:21,264:INFO:
+Number of features in :
+embedded part: 300
+2019-02-28 10:09:21,265:INFO:no embedded part : 39
+2019-02-28 10:09:21,267:INFO:dnn input tensor: 339
+2019-02-28 10:09:21,268:INFO:
+Number of trainable parameters = 1076473
+2019-02-28 10:09:21,269:INFO:
+Batches nb: 4531
+
+2019-02-28 10:09:23,107:INFO:
+**** Epoch: 0 ***
+
+2019-02-28 10:26:00,438:INFO:-- Train loss = 0.491682
+2019-02-28 10:43:00,221:INFO:-- Train loss = 0.473455
+2019-02-28 10:59:40,550:INFO:-- Train loss = 0.466702
+2019-02-28 11:16:27,215:INFO:-- Train loss = 0.465088
+2019-02-28 11:33:01,087:INFO:-- Train loss = 0.463684
+2019-02-28 11:49:44,421:INFO:-- Train loss = 0.462344
+2019-02-28 12:06:26,012:INFO:-- Train loss = 0.461190
+2019-02-28 12:22:54,023:INFO:-- Train loss = 0.460985
+2019-02-28 12:39:18,893:INFO:-- Train loss = 0.461152
+2019-02-28 12:40:20,185:INFO:
+Epoch done in 151 min.
+2019-02-28 12:40:20,187:INFO:Saving session checkpoints\dnn1\model.ckpt
+2019-02-28 12:41:43,139:INFO:Train set shape : (6796659, 55)
+2019-02-28 12:41:43,139:INFO:
+Number of features in :
+embedded part: 300
+2019-02-28 12:41:43,141:INFO:no embedded part : 39
+2019-02-28 12:41:43,143:INFO:dnn input tensor: 339
+2019-02-28 12:41:43,144:INFO:
+Number of trainable parameters = 1076473
+2019-02-28 12:41:43,145:INFO:
+Batches nb: 4531
+
+2019-02-28 12:41:44,103:INFO:Restoring parameters from checkpoints\dnn1\model.ckpt
+2019-02-28 12:41:44,169:INFO:Restored session checkpoints\dnn1\model.ckpt
+2019-02-28 12:41:44,169:INFO:
+**** Epoch: 0 ***
+
+2019-02-28 12:57:06,411:INFO:-- Train loss = 0.428404
+2019-02-28 13:13:30,201:INFO:-- Train loss = 0.456886
+2019-02-28 13:30:19,163:INFO:-- Train loss = 0.456616
+2019-02-28 13:47:03,010:INFO:-- Train loss = 0.457395
+2019-02-28 14:03:44,382:INFO:-- Train loss = 0.455054
+2019-02-28 14:20:28,446:INFO:-- Train loss = 0.455393
+2019-02-28 14:36:58,260:INFO:-- Train loss = 0.455836
+2019-02-28 14:53:42,416:INFO:-- Train loss = 0.455480
+2019-02-28 15:10:30,199:INFO:-- Train loss = 0.455797
+2019-02-28 15:12:37,001:INFO:
+Epoch done in 151 min.
+2019-02-28 15:12:37,002:INFO:
+**** Epoch: 1 ***
+
+2019-02-28 15:27:10,243:INFO:-- Train loss = 0.398677
+2019-02-28 15:43:58,717:INFO:-- Train loss = 0.455317
+2019-02-28 16:00:25,455:INFO:-- Train loss = 0.454648
+2019-02-28 16:17:10,383:INFO:-- Train loss = 0.454330
+2019-02-28 16:34:01,531:INFO:-- Train loss = 0.455388
+2019-02-28 16:51:27,693:INFO:-- Train loss = 0.454862
+2019-02-28 17:08:16,304:INFO:-- Train loss = 0.454641
+2019-02-28 17:25:12,564:INFO:-- Train loss = 0.454035
+2019-02-28 17:41:55,736:INFO:-- Train loss = 0.455354
+2019-02-28 17:44:59,198:INFO:
+Epoch done in 152 min.
+2019-02-28 17:44:59,199:INFO:
+**** Epoch: 2 ***
+
+2019-02-28 17:58:24,813:INFO:-- Train loss = 0.371212
+2019-02-28 18:14:58,908:INFO:-- Train loss = 0.454391
+2019-02-28 18:31:35,546:INFO:-- Train loss = 0.455857
+2019-02-28 18:48:13,534:INFO:-- Train loss = 0.455072
+2019-02-28 19:04:52,731:INFO:-- Train loss = 0.454253
+2019-02-28 19:21:33,702:INFO:-- Train loss = 0.454271
+2019-02-28 19:38:13,877:INFO:-- Train loss = 0.454552
+2019-02-28 19:54:54,713:INFO:-- Train loss = 0.453215
+2019-02-28 20:11:35,737:INFO:-- Train loss = 0.453889
+2019-02-28 20:15:44,236:INFO:
+Epoch done in 151 min.
+2019-02-28 20:15:44,237:INFO:Saving session checkpoints\dnn1\model.ckpt
+2019-02-28 20:17:06,818:INFO:Train set shape : (6796659, 55)
+2019-02-28 20:17:06,819:INFO:
+Number of features in :
+embedded part: 300
+2019-02-28 20:17:06,819:INFO:no embedded part : 39
+2019-02-28 20:17:06,820:INFO:dnn input tensor: 339
+2019-02-28 20:17:06,820:INFO:
+Number of trainable parameters = 1076473
+2019-02-28 20:17:06,821:INFO:
+Batches nb: 4531
+
+2019-02-28 20:17:07,680:INFO:Restoring parameters from checkpoints\dnn1\model.ckpt
+2019-02-28 20:17:07,731:INFO:Restored session checkpoints\dnn1\model.ckpt
+2019-02-28 20:17:07,731:INFO:
+**** Epoch: 0 ***
+
+2019-02-28 20:29:27,536:INFO:-- Train loss = 0.340914
+2019-02-28 20:45:50,149:INFO:-- Train loss = 0.452956
+2019-02-28 21:02:14,587:INFO:-- Train loss = 0.452462
+2019-02-28 21:18:44,872:INFO:-- Train loss = 0.452995
+2019-02-28 21:35:20,107:INFO:-- Train loss = 0.452767
+2019-02-28 21:51:56,603:INFO:-- Train loss = 0.453749
+2019-02-28 22:08:31,399:INFO:-- Train loss = 0.453115
+2019-02-28 22:25:08,110:INFO:-- Train loss = 0.453469
+2019-02-28 22:42:27,786:INFO:-- Train loss = 0.453636
+2019-02-28 22:47:38,183:INFO:
+Epoch done in 151 min.
+2019-02-28 22:47:38,184:INFO:
+**** Epoch: 1 ***
+
+2019-02-28 22:59:08,188:INFO:-- Train loss = 0.312007
+2019-02-28 23:15:51,085:INFO:-- Train loss = 0.452633
+2019-02-28 23:32:37,885:INFO:-- Train loss = 0.452902
+2019-02-28 23:49:24,620:INFO:-- Train loss = 0.451899
+2019-03-01 00:06:08,138:INFO:-- Train loss = 0.453800
+2019-03-01 00:22:52,431:INFO:-- Train loss = 0.452579
+2019-03-01 00:39:38,870:INFO:-- Train loss = 0.452175
+2019-03-01 00:56:25,112:INFO:-- Train loss = 0.451882
+2019-03-01 01:13:13,975:INFO:-- Train loss = 0.451884
+2019-03-01 01:19:29,408:INFO:
+Epoch done in 152 min.
+2019-03-01 01:19:29,409:INFO:
+**** Epoch: 2 ***
+
+2019-03-01 01:30:04,018:INFO:-- Train loss = 0.282878
+2019-03-01 01:46:54,515:INFO:-- Train loss = 0.452931
+2019-03-01 02:03:45,528:INFO:-- Train loss = 0.452698
+2019-03-01 02:20:36,962:INFO:-- Train loss = 0.451186
+2019-03-01 02:37:28,293:INFO:-- Train loss = 0.452833
+2019-03-01 02:54:22,779:INFO:-- Train loss = 0.451210
+2019-03-01 03:11:19,314:INFO:-- Train loss = 0.451774
+2019-03-01 03:28:12,892:INFO:-- Train loss = 0.451578
+2019-03-01 03:45:08,227:INFO:-- Train loss = 0.451271
+2019-03-01 03:52:28,203:INFO:
+Epoch done in 153 min.
+2019-03-01 03:52:28,204:INFO:Saving session checkpoints\dnn1\model.ckpt
+2019-03-01 03:53:50,866:INFO:Train set shape : (6796659, 55)
+2019-03-01 03:53:50,866:INFO:
+Number of features in :
+embedded part: 300
+2019-03-01 03:53:50,867:INFO:no embedded part : 39
+2019-03-01 03:53:50,867:INFO:dnn input tensor: 339
+2019-03-01 03:53:50,868:INFO:
+Number of trainable parameters = 1076473
+2019-03-01 03:53:50,868:INFO:
+Batches nb: 4531
+
+2019-03-01 03:53:51,795:INFO:Restoring parameters from checkpoints\dnn1\model.ckpt
+2019-03-01 03:53:51,847:INFO:Restored session checkpoints\dnn1\model.ckpt
+2019-03-01 03:53:51,847:INFO:
+**** Epoch: 0 ***
+
+2019-03-01 04:03:16,262:INFO:-- Train loss = 0.255791
+2019-03-01 04:20:14,966:INFO:-- Train loss = 0.451100
+2019-03-01 04:37:25,292:INFO:-- Train loss = 0.450909
+2019-03-01 04:54:08,561:INFO:-- Train loss = 0.450871
+2019-03-01 05:10:50,771:INFO:-- Train loss = 0.450864
+2019-03-01 05:27:33,775:INFO:-- Train loss = 0.450763
+2019-03-01 05:44:20,601:INFO:-- Train loss = 0.450755
+2019-03-01 06:01:08,510:INFO:-- Train loss = 0.450245
+2019-03-01 06:17:55,098:INFO:-- Train loss = 0.451097
+2019-03-01 06:26:15,144:INFO:
+Epoch done in 152 min.
+2019-03-01 06:26:15,145:INFO:Saving session checkpoints\dnn1\model.ckpt
+2019-03-01 06:27:37,891:INFO:Train set shape : (6796659, 55)
+2019-03-01 06:27:37,891:INFO:
+Number of features in :
+embedded part: 300
+2019-03-01 06:27:37,892:INFO:no embedded part : 39
+2019-03-01 06:27:37,892:INFO:dnn input tensor: 339
+2019-03-01 06:27:37,893:INFO:
+Number of trainable parameters = 1076473
+2019-03-01 06:27:37,893:INFO:
+Batches nb: 4531
+
+2019-03-01 06:27:38,788:INFO:Restoring parameters from checkpoints\dnn1\model.ckpt
+2019-03-01 06:27:38,845:INFO:Restored session checkpoints\dnn1\model.ckpt
+2019-03-01 06:27:38,845:INFO:
+**** Epoch: 0 ***
+
+2019-03-01 06:36:07,062:INFO:-- Train loss = 0.227118
+2019-03-01 06:52:52,668:INFO:-- Train loss = 0.450529
+2019-03-01 07:09:38,919:INFO:-- Train loss = 0.451041
+2019-03-01 07:26:26,902:INFO:-- Train loss = 0.451722
+2019-03-01 07:43:18,930:INFO:-- Train loss = 0.450764
+2019-03-01 08:00:09,678:INFO:-- Train loss = 0.450138
+2019-03-01 08:16:58,322:INFO:-- Train loss = 0.450317
+2019-03-01 08:33:50,676:INFO:-- Train loss = 0.452726
+2019-03-01 08:50:47,479:INFO:-- Train loss = 0.450094
+2019-03-01 09:00:14,613:INFO:No assets to save.
+2019-03-01 09:00:14,614:INFO:No assets to write.
+2019-03-01 09:00:15,493:INFO:SavedModel written to: ./saved_model/dnn1\saved_model.pb
+2019-03-01 09:00:15,494:INFO:Model saved in folder saved_model
+2019-03-01 09:00:16,208:INFO:
+Epoch done in 153 min.
+2019-03-01 09:00:16,208:INFO:Saving session checkpoints\dnn1\model.ckpt
+2019-03-01 09:00:17,093:INFO:Training done in 23 hours.
