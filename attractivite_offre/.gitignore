@@ -1,0 +1,7 @@
+metrics
+pourvoi_et_candidatures/model/data
+pourvoi_et_candidatures/model/*.pickle
+pourvoi_et_candidatures/model/*_ckpt
+.ipynb_checkpoints/
+__pycache__/
+env
